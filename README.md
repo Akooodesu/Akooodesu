@@ -10,6 +10,6 @@
 
 HI，欢迎来到我的主页！
 
-这里是 [Ako！](https://huhuverse.toph~ 也可能是Akoooo（雾）
+这里是 [Ako！](https://huhuverse.top) ~ 也可能是Akoooo（雾）
 
 那么，来一起愉快地玩耍吧！
