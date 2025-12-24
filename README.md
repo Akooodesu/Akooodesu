@@ -2,7 +2,7 @@
 
 ## 这里是Ako！
 
-> 🍭 Stay curious, stay naive.
+> 探索无限！力致搞事！
 
 
 
