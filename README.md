@@ -1,16 +1,15 @@
-## Hi there 👋
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=idealclover&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]'>
+</a>
 
-<!--
-**Akooodesu/Akooodesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Akooodesu
 
-Here are some ideas to get you started:
+> 🍭 Stay curious, stay naive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+HI，欢迎来到我的主页！
+
+这里是 [Ako！](https://huhuverse.toph~ 也可能是Akoooo（雾）
+
+那么，来一起愉快地玩耍吧！
